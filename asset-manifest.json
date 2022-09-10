@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thewalletboss/static/css/main.629b24ba.css",
+    "main.js": "/thewalletboss/static/js/main.6a29cd68.js",
+    "index.html": "/thewalletboss/index.html",
+    "main.629b24ba.css.map": "/thewalletboss/static/css/main.629b24ba.css.map",
+    "main.6a29cd68.js.map": "/thewalletboss/static/js/main.6a29cd68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629b24ba.css",
+    "static/js/main.6a29cd68.js"
+  ]
+}
