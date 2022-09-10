@@ -28,12 +28,12 @@ At the Bottom there is a Navigating Tab Bar with four Buttons.
 | Button 4 | Account & Setting - Includes the settings like User account name, dark mode status, Deleting and Backup & Import Options.  |
 
 
-<img src="https://user-images.githubusercontent.com/111581344/189471882-851313f1-a1ec-49d6-8a4e-6324c4be281d.jpeg" width="400">
+<img src="https://user-images.githubusercontent.com/111581344/189471882-851313f1-a1ec-49d6-8a4e-6324c4be281d.jpeg" width="350">
 
 ### Click on the Add Button to add transaction & Fill up the Details.
 The date will be set as today by defalut (you can change it also as per your need)
 
-<img src="https://user-images.githubusercontent.com/111581344/189472155-111763b6-0258-4316-ac6c-e214bcddd9fe.jpeg" width="200"><img src="https://user-images.githubusercontent.com/111581344/189472255-d3580845-06b6-4c94-876f-dd2ab14b1807.jpeg" height="300">
+<img src="https://user-images.githubusercontent.com/111581344/189472155-111763b6-0258-4316-ac6c-e214bcddd9fe.jpeg" width="150"><img src="https://user-images.githubusercontent.com/111581344/189472255-d3580845-06b6-4c94-876f-dd2ab14b1807.jpeg" height="120">
 
 ### Changing the Transaction mode
 
