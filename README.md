@@ -40,3 +40,16 @@ The date will be set as today by defalut (you can change it also as per your nee
 You can tap on the ruppee sym Box to change the transaction mode.
 
 <img src="https://user-images.githubusercontent.com/111581344/189472371-ca971f5e-46eb-4574-8a0d-65b3a91bdf80.jpeg" width="160"><img src="https://user-images.githubusercontent.com/111581344/189472382-a0d338e1-d8f0-423c-a5ed-a8db01370b1c.jpeg" width="160">
+
+### User Account 
+Here you can toogle darkmode Edit user name and delete all the transactions. Also check the number of transactions.
+
+<img src="https://user-images.githubusercontent.com/111581344/189472966-bdb6fe1d-f41e-49d9-83c5-1985471c4da9.jpeg" width="220">
+
+### Backup and Import
+
+You can click on Download backup button to downlaod a backup file and then import it at another place.
+
+<img src="https://user-images.githubusercontent.com/111581344/189473104-3a3588f0-1d4c-4d40-8802-7ab5a262987f.jpeg" width="200">
+
+
