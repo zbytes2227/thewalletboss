@@ -39,4 +39,4 @@ The date will be set as today by defalut (you can change it also as per your nee
 
 You can tap on the ruppee sym Box to change the transaction mode.
 
-<img src="https://user-images.githubusercontent.com/111581344/189472371-ca971f5e-46eb-4574-8a0d-65b3a91bdf80.jpeg" width="200"><img src="https://user-images.githubusercontent.com/111581344/189472382-a0d338e1-d8f0-423c-a5ed-a8db01370b1c.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/111581344/189472371-ca971f5e-46eb-4574-8a0d-65b3a91bdf80.jpeg" width="160"><img src="https://user-images.githubusercontent.com/111581344/189472382-a0d338e1-d8f0-423c-a5ed-a8db01370b1c.jpeg" width="160">
