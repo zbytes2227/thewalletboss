@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/thewalletboss/static/css/main.629b24ba.css",
-    "main.js": "/thewalletboss/static/js/main.82d8c688.js",
+    "main.js": "/thewalletboss/static/js/main.9656ade0.js",
     "index.html": "/thewalletboss/index.html",
     "main.629b24ba.css.map": "/thewalletboss/static/css/main.629b24ba.css.map",
-    "main.82d8c688.js.map": "/thewalletboss/static/js/main.82d8c688.js.map"
+    "main.9656ade0.js.map": "/thewalletboss/static/js/main.9656ade0.js.map"
   },
   "entrypoints": [
     "static/css/main.629b24ba.css",
-    "static/js/main.82d8c688.js"
+    "static/js/main.9656ade0.js"
   ]
 }
